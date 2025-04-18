@@ -121,4 +121,6 @@ text
    ---
 Feel free to fork, contribute, or suggest improvements!
 Email: [tagaibek.kubatov@alatoo.edu.kg]
+![image](https://github.com/user-attachments/assets/ef6378c7-d270-4f6a-b930-94ea1d1841e4)
+![image](https://github.com/user-attachments/assets/1821e4d1-c7cf-4892-82d6-789e85bd8d35)
 
