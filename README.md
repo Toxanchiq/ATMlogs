@@ -16,9 +16,9 @@ A command-line Java-based ATM management system with:
 - Full file persistence using JSON
 
 - Rich CLI-based user interface
-  ---
 
-### 🎯 Objectives
+🎯 Objectives
+  ---
 
 Objective	Status
 - Authenticate Users via PIN	✅ Fully Implemented
@@ -27,8 +27,9 @@ Objective	Status
 - Data Persistence	✅ Auto JSON Save/Load
 - Time Tracking (UTC+6)	✅ Implemented
 - Secure CLI Experience	✅ PIN-Protected
+- 
+⚙️ Features
   ---
-### ⚙️ Features
 🔐 Authentication
 PIN-based user login system with retry limits.
 
@@ -62,9 +63,9 @@ Ensures valid PIN
 Prevents withdrawal beyond balance
 
 Rejects invalid denominations or formats
-  ---
 
-### 🧩 Modular Design
+🧩 Modular Design
+   ---
 
 class ATMUser {
     +pin
@@ -84,7 +85,10 @@ class Main {
 
 File Name	Purpose
 users_data.json	Stores user account data
-### ✅ Run Instructions
+
+✅ Run Instructions
+   ---
+   
 Open project in IntelliJ
 
 Run Main.java
@@ -93,7 +97,8 @@ Enter PIN to log in
 
 Follow the command-line options
 
-### 🔐 Example Use Cases
+🔐 Example Use Cases
+   ---
 📌 Deposit with Interest
 text
 Копировать
@@ -110,8 +115,10 @@ text
 → Repayment Due: 5750  
 📌 Withdraw with Denominations
 → Withdraw: 1800  
-→ Dispensed: 1x1000, 1x500, 3x100  
-### 📬 Contact
+→ Dispensed: 1x1000, 1x500, 3x100 
+
+📬 Contact
+   ---
 Feel free to fork, contribute, or suggest improvements!
 Email: [tagaibek.kubatov@alatoo.edu.kg]
 
