@@ -16,6 +16,7 @@ A command-line Java-based ATM management system with:
 - Full file persistence using JSON
 
 - Rich CLI-based user interface
+  ---
 
 ### 🎯 Objectives
 
@@ -26,6 +27,7 @@ Objective	Status
 - Data Persistence	✅ Auto JSON Save/Load
 - Time Tracking (UTC+6)	✅ Implemented
 - Secure CLI Experience	✅ PIN-Protected
+  ---
 ### ⚙️ Features
 🔐 Authentication
 PIN-based user login system with retry limits.
@@ -54,12 +56,13 @@ Shows current time in UTC+6
 📄 JSON Persistence
 users_data.json: All user accounts and balances
 
-### 🧪 Input Validation
+🧪 Input Validation
 Ensures valid PIN
 
 Prevents withdrawal beyond balance
 
 Rejects invalid denominations or formats
+  ---
 
 ### 🧩 Modular Design
 
@@ -108,7 +111,7 @@ text
 📌 Withdraw with Denominations
 → Withdraw: 1800  
 → Dispensed: 1x1000, 1x500, 3x100  
-📬 Contact
+### 📬 Contact
 Feel free to fork, contribute, or suggest improvements!
-Email: [your-email@example.com]
+Email: [tagaibek.kubatov@alatoo.edu.kg]
 
